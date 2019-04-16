@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1, group-title="PINOY TV", SHOP TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
+#EXTINF:-1, group-title="PINOY TV", LIFE TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/chunklist_w1653262029.m3u8
+#EXTINF:-1, group-title="PINOY TV", POP LIFE
+https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
+#EXTINF:-1, group-title="PINOY TV", PILIPINAS HD
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m3u8
+#EXTINF:-1, group-title="PINOY TV", INQUIRER TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w842017402.m3u8
+#EXTINF:-1, group-title="PINOY TV", UNTV
+https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/chunklist_b2592000.m3u8?720
+#EXTINF:-1, group-title="PINOY TV", CNN PHILIPPINES
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1, group-title="PINOY TV", AKSYON TV
+http://stream1.news5.ph:1935/n5e/aksyon/chunklist_w1575736103.m3u8
+#EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
+http://stream1.news5.ph:1935/n5e/tv5/chunklist_w1525346704.m3u8
+#EXTINF:-1, group-title="PINOY TV", ABS CBN
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_800_av-p.m3u8?sd=10&rebase=on&id=AgB4HXCa0gVmP+EbtVxi3Wa+UHE+g1CFcKd4cH3V1n9Y0FRKBKQULloIZYCANxRWLr3%2f6GOWUeAe6w%3d%3d&hdntl=exp=1555459425~acl=%2f*~data=hdntl~hmac=e2fe53797428196f834bc6ea28fe897407cf1c8779e92c2063c0a1da128f465e
