@@ -6,7 +6,7 @@ https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/master.m3u8?hdnea=exp=15
 #EXTINF:-1, group-title="PH Local TV", DZMM Teleradyo
 https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/master.m3u8?hdnea=exp=1555600599~acl=/*~hmac=a174181aa8a3fcfeaa1c9c230edb5477d1d11236fa2c9f9384cb514c0185be11
 #EXTINF:-1, group-title="PH Local TV", 5 (TV5)
-http://stream1.news5.ph:1935/n5e/tv5/chunklist_w1525346704.m3u8
+http://stream1.news5.ph/n5e/tv5_2/playlist.m3u8
 #EXTINF:-1, group-title="PH Local TV", 5 PLUS
 http://stream1.news5.ph:1935/n5e/aksyon/chunklist_w1575736103.m3u8
 #EXTINF:-1, group-title="PH Local TV", CNN PHILIPPINES
