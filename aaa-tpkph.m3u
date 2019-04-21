@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1, group-title="PH Local TV", ABS CBN
-https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/master.m3u8?hdnea=exp=1555599877~acl=/*~hmac=4cdb220bd832b70aa2e299512df1ab95517bc1445dde3c5d0c18c6f9de3eee01
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/master.m3u8?hdnea=exp=1555932050~acl=/*~hmac=6495ebddcfcecd6face2fbd815afab7e5c8cb0cb3afb79a5713fa2d937789d0f
 #EXTINF:-1, group-title="PH Local TV", ANC
-https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/master.m3u8?hdnea=exp=1555599641~acl=/*~hmac=836742bb26f7162a69460f1a554379f3eba669e0e119f5d73e5cb442d0465340
+https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/master.m3u8?hdnea=exp=1555931845~acl=/*~hmac=1403834cb2ad7f32e9f4e7672352070bdaa237da16e278733aaf24b775466a4a
 #EXTINF:-1, group-title="PH Local TV", DZMM Teleradyo
-https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/master.m3u8?hdnea=exp=1555600599~acl=/*~hmac=a174181aa8a3fcfeaa1c9c230edb5477d1d11236fa2c9f9384cb514c0185be11
+https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/master.m3u8?hdnea=exp=1555932064~acl=/*~hmac=bcd573b8950b182a8a948430b3f5eb2d6c916f6286df361e5cdd564aeb9e169d
 #EXTINF:-1, group-title="PH Local TV", 5 (TV5)
 http://stream1.news5.ph/n5e/tv5_2/playlist.m3u8
 #EXTINF:-1, group-title="PH Local TV", 5 PLUS
